@@ -8,7 +8,7 @@ namespace CrudLab.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" , "test" , "updatenameinglobalsettings"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" , "test" , "updatenameinglobalsettings","test development branch"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
